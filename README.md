@@ -11,12 +11,12 @@ This project analyzes banking transaction data to identify patterns and trends a
 The analysis was carried out using Power BI, with a focus on data cleaning, transformation, visualization, and generating insights that can support fraud monitoring and decision-making.
 
 ## Dashboard Preview
+![Dashboard Overview](<Screenshot 2026-10-07 052702.png>)
 
-![Dashboard Overview](Screenshot 2026-10-07 052702.png)
+![Dashboard Details](<Screenshot 2026-10-07 052721.png>)
 
-![Dashboard Details](Screenshot 2026-10-07 052721.png)
+![Dashboard Insights](<Screenshot 2026-10-07 052849.png>)
 
-![Dashboard Insights](Screenshot 2026-10-07 052849.png)
 
 ## Objectives
 
